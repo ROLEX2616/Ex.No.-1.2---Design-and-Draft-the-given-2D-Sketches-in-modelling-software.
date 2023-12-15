@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/ROLEX2616/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149988469/1305704e-38c4-42bf-b2ff-6f1d78175448)
+![Screenshot 2023-12-15 233559](https://github.com/ROLEX2616/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149988469/00861cc8-d785-47f0-8b82-b528fb7cc31c)
 
  
  
